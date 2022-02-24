@@ -23,5 +23,5 @@ DESCRIPTION DE LA FORMATION
 
  Retrouvez [Damien Bruyndonckx](https://www.linkedin.com/learning/instructors/damien-bruyndonckx) sur LinkedIn Learning.
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/securiser-son-site-avec-un-certificat-ssl
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg	
