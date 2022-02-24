@@ -1,6 +1,6 @@
 # Sécuriser son site avec un certificat SSL
 
-Ce dossier Repository est lié au cours [Sécuriser son site avec un certificat SSL][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
+Ce dossier Repository est lié au cours [Sécuriser son site avec un certificat SSL][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
