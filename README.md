@@ -1,6 +1,6 @@
 # Nom final de la formation
 
-Ce dossier Repository est lié au cours [Nom final de la formation][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
+Ce dossier Repository est lié au cours [Sécuriser son site avec un certificat SSL][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
@@ -24,4 +24,4 @@ DESCRIPTION DE LA FORMATION
  Retrouvez [Damien Bruyndonckx](https://www.linkedin.com/learning/instructors/damien-bruyndonckx) sur LinkedIn Learning.
 
 [lil-course-url]: https://www.linkedin.com/learning/securiser-son-site-avec-un-certificat-ssl
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg	
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1645797600&v=beta&t=bIo5Jp5fDAUHUAM3x185-Q9JRamW-XgQrx3FmjnM5j4	
