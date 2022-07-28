@@ -19,7 +19,7 @@ Le protocole HTTPS est la version sécurisée du protocole HTTP qui est utilisé
 
 ### Instructeur
 
-**Madjid Khichane** 
+**Damien Bruyndonckx** 
 
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
