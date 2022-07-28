@@ -1,6 +1,6 @@
 # Sécuriser son site avec un certificat SSL
 
-Ce dossier Repository est lié au cours `Développer une solution big data avec Azure`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Sécuriser son site avec un certificat SSL`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![image](https://media-exp1.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1659614400&v=beta&t=fTnPKMyC-oqApIu7eKhhA9dUM1uk3FOfBokbakjiMII) 
 
