@@ -1,8 +1,8 @@
 # Sécuriser son site avec un certificat SSL
 
-Ce dossier Repository est lié au cours [Sécuriser son site avec un certificat SSL][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
+Ce dossier Repository est lié au cours `Développer une solution big data avec Azure`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url] 
+![image](https://media-exp1.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1659614400&v=beta&t=fTnPKMyC-oqApIu7eKhhA9dUM1uk3FOfBokbakjiMII) 
 
 Le protocole HTTPS est la version sécurisée du protocole HTTP qui est utilisé mondialement pour naviguer sur Internet. Si vous gérez un site web, vous devez valider le bon fonctionnement du protocole HTTPS et des certificats SSL. Découvrez ce cours qui va vous permettre de générer des certificats de sécurité au niveau de votre serveur web et de rediriger vos internautes de manière sereine. Avec Damien Bruyndonckx, développeur web et instructeur certifié spécialisé en e-learning, vous allez voir comment utiliser une autorité certifiante pour votre site web et créer une chaîne de confiance sur votre serveur.
 
