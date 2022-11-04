@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `Sécuriser son site avec un certificat SSL`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![image](https://media-exp1.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1659614400&v=beta&t=fTnPKMyC-oqApIu7eKhhA9dUM1uk3FOfBokbakjiMII) 
+![Nom final de la formation][lil-thumbnail-url]
 
 Le protocole HTTPS est la version sécurisée du protocole HTTP qui est utilisé mondialement pour naviguer sur Internet. Si vous gérez un site web, vous devez valider le bon fonctionnement du protocole HTTPS et des certificats SSL. Découvrez ce cours qui va vous permettre de générer des certificats de sécurité au niveau de votre serveur web et de rediriger vos internautes de manière sereine. Avec Damien Bruyndonckx, développeur web et instructeur certifié spécialisé en e-learning, vous allez voir comment utiliser une autorité certifiante pour votre site web et créer une chaîne de confiance sur votre serveur.
 
@@ -24,5 +24,5 @@ Le protocole HTTPS est la version sécurisée du protocole HTTP qui est utilisé
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/securiser-son-site-avec-un-certificat-ssl
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1646964000&v=beta&t=mb8ZZinlsc3qOhYuPF7K92uGnGMCgWQkiY_CDn-9uK4
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1668157200&v=beta&t=rvN-OntZ1ma0z4d9_TjZLs1LE_QWGcpAdKshKwGuaXU
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
