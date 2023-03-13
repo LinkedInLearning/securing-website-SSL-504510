@@ -24,5 +24,5 @@ Le protocole HTTPS est la version sécurisée du protocole HTTP qui est utilisé
 Retrouvez mes autres formations [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/securiser-son-site-avec-un-certificat-ssl
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4D0DAQHFBDAh5Jcjug/learning-public-crop_675_1200/0/1644852849030?e=1668157200&v=beta&t=rvN-OntZ1ma0z4d9_TjZLs1LE_QWGcpAdKshKwGuaXU
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2436160/2436160-1644852631906-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
